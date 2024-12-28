@@ -1,8 +1,6 @@
 # Português (english below)
 
 ### O que é?
-Simple web scraping to detect if the Boosteroid gift card is available on GiftCardPro.
-
 Web scraping simples pra detectar se o gift card do Boosteroid está disponivel no GiftCardPro.
 
 ### Como usar?
